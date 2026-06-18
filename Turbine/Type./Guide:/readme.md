@@ -2,3 +2,4 @@
 - https://energypedia.info/wiki/Micro_Hydro_Power_(MHP)_Plant_-_Turbine_Types
 - https://cat.org.uk/info-resources/free-information-service/energy/micro-hydro/
 - https://www.hydropowermaintenance.com/turbine-types/
+- https://www.linkedin.com/pulse/types-hydro-turbines-applications-engineering-updates
