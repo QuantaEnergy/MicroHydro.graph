@@ -14,5 +14,6 @@ https://www.google.com/search?q=parts+of+a+torque+converter
 my torque converter from a 1995 Ford F-150 has a cast aluminum alloy stator with a band of stainless steel. this should not corrode! the center splines are cast iron or steel and may be coated, chemically pacified, or Heat treated:
 - Baked in a high oxygen environment at a controlled temperature to oxidize the iron without melting the aluminum.
 
-### Impeller is stamped in welded steel
+### Impeller
+is stamped in welded steel
 - oxidize to make a hematite coating, directly in a fire or in a temperature and oxygenImpeller
