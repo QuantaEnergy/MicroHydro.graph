@@ -1,6 +1,9 @@
 - https://www.energy.gov/cmei/water/types-hydropower-turbines
+- https://www.alternative-energy-tutorials.com/hydro-energy/water-turbine-design.html/comment-page-1
 - https://www.renewableenergyhub.co.uk/main/hydroelectricity-information/types-of-micro-hydroelectricity-systems
 - https://energypedia.info/wiki/Micro_Hydro_Power_(MHP)_Plant_-_Turbine_Types
 - https://cat.org.uk/info-resources/free-information-service/energy/micro-hydro/
 - https://www.hydropowermaintenance.com/turbine-types/
 - https://www.linkedin.com/pulse/types-hydro-turbines-applications-engineering-updates
+- [Different Types of Water Turbines (Impulse, Reaction, Pelton, Cross-flow, Kaplan & Francis Turbine)](https://youtu.be/Ac4E0n3knio)
+- 
