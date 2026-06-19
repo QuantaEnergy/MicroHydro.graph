@@ -1,0 +1,1 @@
+- [velocity triangles for turbines | hydraulic machine fm | all ae&je exam/fluid mechanics by rahul sir](https://youtu.be/PCZ5g_XFpPM)
